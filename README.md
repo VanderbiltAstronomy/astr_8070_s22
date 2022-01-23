@@ -10,11 +10,11 @@
 
 * Lecture 1 (01/18/2022): [Introduction To Class](lectures/Lecture_1a.ipynb) and [Initial Setup](lectures/Lecture_1b.ipynb)
 * Lecture 2 (01/20/2022): [Introduction To Probability & Statistics: I](lectures/Lecture_2.ipynb)
+* Lecture 3 (01/25/2022): [Introduction To Probability & Statistics: II](lectures/Lecture_3.ipynb)
+* Lecture 4 (01/27/2022): [Introduction To Probability & Statistics: III](lectures/Lecture_4.ipynb)
+
 
 <!---
-* Lecture 3 (01/25/2021): [Introduction To Probability & Statistics: II](lectures/Lecture_3.ipynb)
-* Lecture 4 (01/27/2021): [Introduction To Probability & Statistics: III](lectures/Lecture_4.ipynb)
-
 * Lecture 5 (02/09/2021): [Classical/Frequentist Statistical Inference: I](lectures/Lecture_5.ipynb)
 * Lecture 6 (02/11/2021): [Classical/Frequentist Statistical Inference: II](lectures/Lecture_6.ipynb)
 * Lecture 7 (02/16/2021): [Classical/Frequentist Statistical Inference: III](lectures/Lecture_7.ipynb)
