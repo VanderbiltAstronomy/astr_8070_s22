@@ -40,6 +40,14 @@
 * Lecture 24 (04/27/2021): [Time Series Analysis: II](lectures/Lecture_24.ipynb)
 -->
 
+## Lecture Notes
+
+* [Lecture 1](lectures/notes/Lecture 1.pdf) (01/18/2022)
+* [Lecture 2](lectures/notes/Lecture 2.pdf) (01/20/2022)
+* [Lecture 3](lectures/notes/Lecture 3.pdf) (01/25/2022)
+* [Lecture 4](lectures/notes/Lecture 4.pdf) (01/27/2022)
+* [Lecture 5](lectures/notes/Lecture 5.pdf) (02/01/2022)
+
 ## Assignments
 
 * Homework 1 (due 01/22/2022 @ 11.59pm CST) [vu_astr8070_s22_hw1.ipynb](coursework/homeworks/vu_astr8070_s22_hw1.ipynb)
