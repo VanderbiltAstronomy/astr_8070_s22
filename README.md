@@ -47,6 +47,7 @@
 * [Lecture 3](lectures/notes/Lecture%203.pdf) (01/25/2022)
 * [Lecture 4](lectures/notes/Lecture%204.pdf) (01/27/2022)
 * [Lecture 5](lectures/notes/Lecture%205.pdf) (02/01/2022)
+* [Lecture 6](lectures/notes/Lecture%206.pdf) (02/03/2022)
 
 ## Assignments
 
