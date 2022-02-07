@@ -14,11 +14,12 @@
 * Lecture 4 (01/27/2022): [Introduction To Probability & Statistics: III](lectures/Lecture_4.ipynb)
 * Lecture 5 (02/01/2022): [Classical/Frequentist Statistical Inference: I](lectures/Lecture_5.ipynb)
 * Lecture 6 (02/03/2022): [Classical/Frequentist Statistical Inference: II](lectures/Lecture_6.ipynb)
+* Lecture 7 (02/08/2022): [Classical/Frequentist Statistical Inference: III](lectures/Lecture_7.ipynb)
+* Lecture 8 (02/10/2022): [Bayesian Statistical Inference: I](lectures/Lecture_8.ipynb)
 
 
 <!---
-* Lecture 7 (02/16/2021): [Classical/Frequentist Statistical Inference: III](lectures/Lecture_7.ipynb)
-* Lecture 8 (02/18/2021): [Bayesian Statistical Inference: I](lectures/Lecture_8.ipynb)
+
 * Reading Day (02/23/2021)
 * Lecture 9 (02/25/2021): [Bayesian Statistical Inference: II](lectures/Lecture_9.ipynb)
 * Lecture 10 (03/02/2021): [Bayesian Statistical Inference: III](lectures/Lecture_10.ipynb)
