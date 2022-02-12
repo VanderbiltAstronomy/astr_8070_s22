@@ -50,6 +50,7 @@
 * [Lecture 5](lectures/notes/Lecture%205.pdf) (02/01/2022)
 * [Lecture 6](lectures/notes/Lecture%206.pdf) (02/03/2022)
 * [Lecture 7](lectures/notes/Lecture%207.pdf) (02/08/2022)
+* [Lecture 8](lectures/notes/Lecture%208.pdf) (02/10/2022)
 
 ## Assignments
 
