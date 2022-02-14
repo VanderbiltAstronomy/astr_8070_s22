@@ -16,6 +16,8 @@
 * Lecture 6 (02/03/2022): [Classical/Frequentist Statistical Inference: II](lectures/Lecture_6.ipynb)
 * Lecture 7 (02/08/2022): [Classical/Frequentist Statistical Inference: III](lectures/Lecture_7.ipynb)
 * Lecture 8 (02/10/2022): [Bayesian Statistical Inference: I](lectures/Lecture_8.ipynb)
+* Lecture 9 (02/15/2022): [Bayesian Statistical Inference: II](lectures/Lecture_9.ipynb)
+* Lecture 10 (02/17/2022): [Bayesian Statistical Inference: III](lectures/Lecture_10.ipynb)
 
 
 <!---
