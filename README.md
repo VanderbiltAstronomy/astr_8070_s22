@@ -18,15 +18,13 @@
 * Lecture 8 (02/10/2022): [Bayesian Statistical Inference: I](lectures/Lecture_8.ipynb)
 * Lecture 9 (02/15/2022): [Bayesian Statistical Inference: II](lectures/Lecture_9.ipynb)
 * Lecture 10 (02/17/2022): [Bayesian Statistical Inference: III](lectures/Lecture_10.ipynb)
+* Lecture 11 (02/22/2022): [Bayesian Statistical Inference: IV](lectures/Lecture_11.ipynb)
+* Lecture 12 (02/24/2022): [Bayesian Statistical Inference: V](lectures/Lecture_12.ipynb)
 
 
 <!---
 
-* Reading Day (02/23/2021)
-* Lecture 9 (02/25/2021): [Bayesian Statistical Inference: II](lectures/Lecture_9.ipynb)
-* Lecture 10 (03/02/2021): [Bayesian Statistical Inference: III](lectures/Lecture_10.ipynb)
-* Lecture 11 (03/04/2021): [Bayesian Statistical Inference: IV](lectures/Lecture_11.ipynb)
-* Lecture 12 (03/09/2021): [Bayesian Statistical Inference: V](lectures/Lecture_12.ipynb)
+
 * Lecture 13 (03/11/2021): [Data Mining & Machine Learning: Intro to Scikit-Learn](lectures/Lecture_13.ipynb)
 * Lecture 14 (03/16/2021): [Density Estimation & Clustering](lectures/Lecture_14.ipynb)
 * No Class (03/18/2021)
