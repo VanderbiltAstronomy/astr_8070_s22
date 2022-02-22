@@ -18,15 +18,13 @@
 * Lecture 8 (02/10/2022): [Bayesian Statistical Inference: I](lectures/Lecture_8.ipynb)
 * Lecture 9 (02/15/2022): [Bayesian Statistical Inference: II](lectures/Lecture_9.ipynb)
 * Lecture 10 (02/17/2022): [Bayesian Statistical Inference: III](lectures/Lecture_10.ipynb)
+* Lecture 11 (02/22/2022): [Bayesian Statistical Inference: IV](lectures/Lecture_11.ipynb)
+* Lecture 12 (02/24/2022): [Bayesian Statistical Inference: V](lectures/Lecture_12.ipynb)
 
 
 <!---
 
-* Reading Day (02/23/2021)
-* Lecture 9 (02/25/2021): [Bayesian Statistical Inference: II](lectures/Lecture_9.ipynb)
-* Lecture 10 (03/02/2021): [Bayesian Statistical Inference: III](lectures/Lecture_10.ipynb)
-* Lecture 11 (03/04/2021): [Bayesian Statistical Inference: IV](lectures/Lecture_11.ipynb)
-* Lecture 12 (03/09/2021): [Bayesian Statistical Inference: V](lectures/Lecture_12.ipynb)
+
 * Lecture 13 (03/11/2021): [Data Mining & Machine Learning: Intro to Scikit-Learn](lectures/Lecture_13.ipynb)
 * Lecture 14 (03/16/2021): [Density Estimation & Clustering](lectures/Lecture_14.ipynb)
 * No Class (03/18/2021)
@@ -61,11 +59,12 @@
 * Homework 1 (due 01/22/2022 @ 11.59pm CST) [vu_astr8070_s22_hw1.ipynb](coursework/homeworks/vu_astr8070_s22_hw1.ipynb)
 * Homework 2 (due 02/05/2022 @ 11.59pm CST) [vu_astr8070_s22_hw2.ipynb](coursework/homeworks/vu_astr8070_s22_hw2.ipynb)
 * Homework 3 (due 02/12/2022 @ 11.59pm CST) [vu_astr8070_s22_hw3.ipynb](coursework/homeworks/vu_astr8070_s22_hw3.ipynb)
+* Homework 4 (due 02/26/2022 @ 11.59pm CST) [vu_astr8070_s22_hw4.ipynb](coursework/homeworks/vu_astr8070_s22_hw4.ipynb)
 
 
 <!---
 
-* Homework 4 (due 03/05/2021 @ 11.59pm CST) [vu_astr8070_s21_hw4.ipynb](coursework/homeworks/vu_astr8070_s21_hw4.ipynb)
+
 * Homework 5 (due 03/27/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw5.ipynb](coursework/homeworks/vu_astr8070_s21_hw5.ipynb)
 * Homework 6 (due 04/03/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw6.ipynb](coursework/homeworks/vu_astr8070_s21_hw6.ipynb)
 * Homework 7 (due 04/10/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw7.ipynb](coursework/homeworks/vu_astr8070_s21_hw7.ipynb)
