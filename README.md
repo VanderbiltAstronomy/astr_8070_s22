@@ -21,7 +21,7 @@
 * Lecture 11 (02/22/2022): [Bayesian Statistical Inference: IV](lectures/Lecture_11.ipynb)
 * Lecture 12 (02/24/2022): [Bayesian Statistical Inference: V](lectures/Lecture_12.ipynb)
 * Lecture 13 (03/01/2022): [Data Mining & Machine Learning: Intro to Scikit-Learn](lectures/Lecture_13.ipynb)
-* Lecture 14 (03/03/2021): [Density Estimation & Clustering](lectures/Lecture_14.ipynb)
+* Lecture 14 (03/03/2022): [Density Estimation & Clustering](lectures/Lecture_14.ipynb)
 
 
 <!---
@@ -57,6 +57,7 @@
 * [Lecture 11](lectures/notes/Lecture%2011.pdf) (02/22/2022)
 * [Lecture 12](lectures/notes/Lecture%2012.pdf) (02/24/2022)
 * [Lecture 13](lectures/notes/Lecture%2013.pdf) (03/01/2022)
+* [Lecture 14](lectures/notes/Lecture%2014.pdf) (03/03/2022)
 
 ## Assignments
 
