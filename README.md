@@ -56,6 +56,7 @@
 * [Lecture 12](lectures/notes/Lecture%2012.pdf) (02/24/2022)
 * [Lecture 13](lectures/notes/Lecture%2013.pdf) (03/01/2022)
 * [Lecture 14](lectures/notes/Lecture%2014.pdf) (03/03/2022)
+* [Lecture 15](lectures/notes/Lecture%2015.pdf) (03/15/2022)
 
 ## Assignments
 
