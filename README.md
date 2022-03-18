@@ -67,13 +67,14 @@
 * Homework 4 (due 02/26/2022 @ 11.59pm CST) [vu_astr8070_s22_hw4.ipynb](coursework/homeworks/vu_astr8070_s22_hw4.ipynb)
 * Homework 5 (due 03/05/2022 @ 11.59pm CST) [vu_astr8070_s22_hw5.ipynb](coursework/homeworks/vu_astr8070_s22_hw5.ipynb)
 * Homework 6 (due 03/26/2022 @ 11.59pm CDT) [vu_astr8070_s22_hw6.ipynb](coursework/homeworks/vu_astr8070_s22_hw6.ipynb)
+* Homework 7 (due 04/02/2022 @ 11.59pm CDT) [vu_astr8070_s22_hw7.ipynb](coursework/homeworks/vu_astr8070_s22_hw7.ipynb)
 
 
 <!---
 
 
 
-* Homework 7 (due 04/10/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw7.ipynb](coursework/homeworks/vu_astr8070_s21_hw7.ipynb)
+
 * Homework 8 (due 04/17/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw8.ipynb](coursework/homeworks/vu_astr8070_s21_hw8.ipynb)
 * Homework 9 (due 04/24/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw9.ipynb](coursework/homeworks/vu_astr8070_s21_hw9.ipynb)
 -->
