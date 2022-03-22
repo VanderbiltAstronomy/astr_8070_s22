@@ -24,15 +24,15 @@
 * Lecture 14 (03/03/2022): [Density Estimation & Clustering](lectures/Lecture_14.ipynb)
 * Lecture 15 (03/15/2022): [Dimensional Reduction: I](lectures/Lecture_15.ipynb)
 * Lecture 16 (03/17/2022): [Dimensional Reduction: II](lectures/Lecture_16.ipynb)
-
+* Lecture 17 (03/22/2022): [Regression: I](lectures/Lecture_17.ipynb)
+* Lecture 18 (03/24/2022): [Regression: II](lectures/Lecture_18.ipynb)
 
 <!---
 
 
-* Lecture 17 (03/30/2021): [Regression: I](lectures/Lecture_17.ipynb)
-* Lecture 18 (04/01/2021): [Regression: II](lectures/Lecture_18.ipynb)
+
 * Lecture 19 (04/06/2021): [Classification: I](lectures/Lecture_19.ipynb)
-* Reading Day (04/08/2021)
+
 * Lecture 20 (04/13/2021): [Classification: II](lectures/Lecture_20.ipynb)
 * Lecture 21 (04/15/2021): [Deep Learning: I](lectures/Lecture_21.ipynb)
 * Lecture 22 (04/20/2021): [Deep Learning: II](lectures/Lecture_22.ipynb)
@@ -57,6 +57,7 @@
 * [Lecture 13](lectures/notes/Lecture%2013.pdf) (03/01/2022)
 * [Lecture 14](lectures/notes/Lecture%2014.pdf) (03/03/2022)
 * [Lecture 15](lectures/notes/Lecture%2015.pdf) (03/15/2022)
+* [Lecture 16](lectures/notes/Lecture%2016.pdf) (03/15/2022)
 
 ## Assignments
 
@@ -64,14 +65,16 @@
 * Homework 2 (due 02/05/2022 @ 11.59pm CST) [vu_astr8070_s22_hw2.ipynb](coursework/homeworks/vu_astr8070_s22_hw2.ipynb)
 * Homework 3 (due 02/12/2022 @ 11.59pm CST) [vu_astr8070_s22_hw3.ipynb](coursework/homeworks/vu_astr8070_s22_hw3.ipynb)
 * Homework 4 (due 02/26/2022 @ 11.59pm CST) [vu_astr8070_s22_hw4.ipynb](coursework/homeworks/vu_astr8070_s22_hw4.ipynb)
-* Homework 5 (due 03/05/2021 @ 11.59pm CST) [vu_astr8070_s22_hw5.ipynb](coursework/homeworks/vu_astr8070_s22_hw5.ipynb)
+* Homework 5 (due 03/05/2022 @ 11.59pm CST) [vu_astr8070_s22_hw5.ipynb](coursework/homeworks/vu_astr8070_s22_hw5.ipynb)
+* Homework 6 (due 03/26/2022 @ 11.59pm CDT) [vu_astr8070_s22_hw6.ipynb](coursework/homeworks/vu_astr8070_s22_hw6.ipynb)
+* Homework 7 (due 04/02/2022 @ 11.59pm CDT) [vu_astr8070_s22_hw7.ipynb](coursework/homeworks/vu_astr8070_s22_hw7.ipynb)
 
 
 <!---
 
 
-* Homework 6 (due 04/03/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw6.ipynb](coursework/homeworks/vu_astr8070_s21_hw6.ipynb)
-* Homework 7 (due 04/10/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw7.ipynb](coursework/homeworks/vu_astr8070_s21_hw7.ipynb)
+
+
 * Homework 8 (due 04/17/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw8.ipynb](coursework/homeworks/vu_astr8070_s21_hw8.ipynb)
 * Homework 9 (due 04/24/2021 @ 11.59pm CDT) [vu_astr8070_s21_hw9.ipynb](coursework/homeworks/vu_astr8070_s21_hw9.ipynb)
 -->
