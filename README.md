@@ -26,8 +26,8 @@
 * Lecture 16 (03/17/2022): [Dimensional Reduction: II](lectures/Lecture_16.ipynb)
 * Lecture 17 (03/22/2022): [Regression: I](lectures/Lecture_17.ipynb)
 * Lecture 18 (03/24/2022): [Regression: II](lectures/Lecture_18.ipynb)
-* Lecture 19 (03/29/2021): [Classification: I](lectures/Lecture_19.ipynb)
-* Lecture 20 (03/31/2021): [Classification: II](lectures/Lecture_20.ipynb)
+* Lecture 19 (03/29/2022): [Classification: I](lectures/Lecture_19.ipynb)
+* Lecture 20 (03/31/2022): [Classification: II](lectures/Lecture_20.ipynb)
 
 <!---
 
