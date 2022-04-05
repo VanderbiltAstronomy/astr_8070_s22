@@ -29,7 +29,7 @@
 * Lecture 19 (03/29/2022): [Classification: I](lectures/Lecture_19.ipynb)
 * Lecture 20 (03/31/2022): [Classification: II](lectures/Lecture_20.ipynb)
 * Lecture 21 (04/05/2022): [Deep Learning: I](lectures/Lecture_21.ipynb)
-* Lecture 22 (04/07/2021): [Deep Learning: II](lectures/Lecture_22.ipynb)
+* Lecture 22 (04/07/2022): [Deep Learning: II](lectures/Lecture_22.ipynb)
 
 <!---
 
