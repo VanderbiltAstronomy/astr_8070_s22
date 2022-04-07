@@ -63,6 +63,7 @@
 * [Lecture 19](lectures/notes/Lecture%2019.pdf) (03/29/2022)
 * [Lecture 20](lectures/notes/Lecture%2020.pdf) (03/31/2022)
 * [Lecture 21](lectures/notes/Lecture%2021.pdf) (04/05/2022)
+* [Lecture 22](lectures/notes/Lecture%2022.pdf) (04/07/2022)
 
 ## Assignments
 
