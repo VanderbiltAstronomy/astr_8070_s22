@@ -66,6 +66,7 @@
 * [Lecture 21](lectures/notes/Lecture%2021.pdf) (04/05/2022)
 * [Lecture 22](lectures/notes/Lecture%2022.pdf) (04/07/2022)
 * [Lecture 23](lectures/notes/Lecture%2023.pdf) (04/14/2022)
+* [Lecture 24](lectures/notes/Lecture%2024.pdf) (04/19/2022)
 
 ## Assignments
 
